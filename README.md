@@ -7,7 +7,7 @@ Projeto criado como prática de lógica, interface gráfica e eventos no .NET.
 
 ## 🖼️ Interface
 
-![Calculadora C#](./34a27eac-0346-4ad1-a7b5-cf3ed857b3b5.png)
+![Calculadora C#]([./34a27eac-0346-4ad1-a7b5-cf3ed857b3b5.png](https://github.com/AderaldoGit/CalculadoraCSharp/blob/master/Capturar.PNG))
 
 ---
 
