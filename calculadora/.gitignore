@@ -1,0 +1,8 @@
+# Ignorar compilados e temporários
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
